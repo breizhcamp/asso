@@ -26,8 +26,8 @@ Sponsor de l'ensemble de nos meetups, et ce depuis plus de 2 ans
 [Zenika](https://www.zenika.com/)
 
 ### Sponsor nyancat
-Sponsor de plus de 3 meetups
+Sponsor de plus de 4 meetups
+![NyanCat](nyancat.png)
+[Liksi](https://www.liksi.fr/)
 
-### Sponsor floppydisk
-Sponsor de plus de 2 meetups
 
