@@ -21,8 +21,8 @@ Chacun de ces meetup bénéficie du cadre légal et de la _force de frappe_ de l
 Certains de nos sponsors accompagnent non seulement la conférence BreizhCamp mais également nos meetups. Cet engagement local fort, souvent de longue date, mérite toute notre reconnaissance, aussi nous leur accordons un trophée spécifique
 
 ### Sponsor licorne
-Sponsor de plus de 4 meetups, et ce depuis plus de 2 ans
-
+Sponsor de l'ensemble de nos meetups, et ce depuis plus de 2 ans
+![Licorne](licorne.png)
 [Zenika](https://www.zenika.com/)
 
 ### Sponsor nyancat
