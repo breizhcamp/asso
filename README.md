@@ -22,12 +22,16 @@ Certains de nos sponsors accompagnent non seulement la conférence BreizhCamp ma
 
 ### Sponsor licorne
 Sponsor de l'ensemble de nos meetups, et ce depuis plus de 2 ans
+
 ![Licorne](licorne.png)
+
 [Zenika](https://www.zenika.com/)
 
 ### Sponsor nyancat
 Sponsor de plus de 4 meetups
+
 ![NyanCat](nyancat.png)
-[Liksi](https://www.liksi.fr/)
+
+[Liksi](http://www.liksi.fr/)
 
 
